@@ -1,0 +1,318 @@
+{
+  "subscribers": [
+    {
+      "id": "64a92e7be4f328ef46108d2a",
+      "first_name": "Rivers",
+      "last_name": "Vaughn",
+      "email": "riversvaughn@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "phone": "(901) 586-3332",
+      "country": "Algeria",
+      "created_at": "2022-06-02T02:01:03 -02:00",
+      "updated_at": "2023-03-30T10:16:39 -02:00"
+    },
+    {
+      "id": "64a92e7b53f1b8d1660dd32b",
+      "first_name": "Carroll",
+      "last_name": "Clark",
+      "email": "carrollclark@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
+      "phone": "(989) 565-3547",
+      "country": "Armenia",
+      "created_at": "2021-03-25T05:50:28 -01:00",
+      "updated_at": "2022-10-04T08:03:11 -02:00"
+    },
+    {
+      "id": "64a92e7b0eab71036cbdcbe2",
+      "first_name": "Rocha",
+      "last_name": "Beck",
+      "email": "rochabeck@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/men/16.jpg",
+      "phone": "(912) 434-2116",
+      "country": "Seychelles",
+      "created_at": "2022-06-11T04:38:17 -02:00",
+      "updated_at": "2023-04-28T05:28:28 -02:00"
+    },
+    {
+      "id": "64a92e7b7591c3546a5db3e8",
+      "first_name": "Sadie",
+      "last_name": "Bean",
+      "email": "sadiebean@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "phone": "(913) 469-3775",
+      "country": "Tanzania",
+      "created_at": "2022-06-04T05:05:18 -02:00",
+      "updated_at": "2023-01-19T03:01:17 -01:00"
+    },
+    {
+      "id": "64a92e7bcfdc6c9528116ce1",
+      "first_name": "Vickie",
+      "last_name": "Stuart",
+      "email": "vickiestuart@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/men/80.jpg",
+      "phone": "(831) 441-2680",
+      "country": "American Samoa",
+      "created_at": "2022-02-21T08:31:19 -01:00",
+      "updated_at": "2022-06-06T01:05:35 -02:00"
+    },
+    {
+      "id": "64a92e7bbcd430fd115aa5d1",
+      "first_name": "Olson",
+      "last_name": "Barry",
+      "email": "olsonbarry@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+      "phone": "(936) 565-2140",
+      "country": "Georgia",
+      "created_at": "2020-03-01T06:05:24 -01:00",
+      "updated_at": "2022-12-31T07:31:10 -01:00"
+    },
+    {
+      "id": "64a92e7b05edb8dcc105a122",
+      "first_name": "Rene",
+      "last_name": "Madden",
+      "email": "renemadden@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+      "phone": "(985) 551-3123",
+      "country": "Sweden",
+      "created_at": "2022-07-02T12:08:05 -02:00",
+      "updated_at": "2023-06-01T05:20:53 -02:00"
+    },
+    {
+      "id": "64a92e7b6caf604bc3094143",
+      "first_name": "Mcconnell",
+      "last_name": "Deleon",
+      "email": "mcconnelldeleon@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/women/94.jpg",
+      "phone": "(893) 561-3194",
+      "country": "France",
+      "created_at": "2023-06-22T02:59:00 -02:00",
+      "updated_at": "2022-10-22T07:28:06 -02:00"
+    },
+    {
+      "id": "64a92e7bf8557a6990766409",
+      "first_name": "Cortez",
+      "last_name": "White",
+      "email": "cortezwhite@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/women/70.jpg",
+      "phone": "(849) 458-2470",
+      "country": "Maldives",
+      "created_at": "2022-01-22T09:18:50 -01:00",
+      "updated_at": "2023-03-11T06:10:19 -01:00"
+    },
+    {
+      "id": "64a92e7b5682b85b426706a4",
+      "first_name": "Clara",
+      "last_name": "Tyler",
+      "email": "claratyler@klugger.com",
+      "avatar": "https://randomuser.me/api/portraits/women/91.jpg",
+      "phone": "(955) 514-3891",
+      "country": "Colombia",
+      "created_at": "2023-05-05T08:51:55 -02:00",
+      "updated_at": "2022-07-03T11:22:45 -02:00"
+    }
+  ],
+  "airlines": [
+    {
+      "id": "64a930fc238ff9b74c3ew32",
+      "name": "ALASKA AIRLINES",
+      "country": "USA",
+      "email": "chrisjonhson@alaskaairlines.com",
+      "phone": "+1 (592) 417-2789",
+      "category": "local"
+    },
+    {
+      "id": "e432b33d515cb564",
+      "name": "WIZZAIR",
+      "country": "Hungary",
+      "email": "boylecannon@zilencio.com",
+      "phone": "(912) 417-2789",
+      "category": "global"
+    },
+    {
+      "id": "92bd263e432b33d515cb5",
+      "name": "AVIANCA",
+      "country": "Colombia",
+      "email": "boylecannon@acrodance.com",
+      "phone": "(809) 441-2176",
+      "category": "international"
+    }
+  ],
+  "subscriptionsPlans": [
+    {
+      "id": "64a930fc238ff9b74c33f9a2",
+      "airlineId": "e432b33d515cb564",
+      "name": "FLY-MORE-CLUB-YEAR",
+      "pretty_name": "Fly10More Club",
+      "quota": "12",
+      "installments": "1",
+      "installments_frequency": "YEAR",
+      "createdAt": "2010-01-14T21:44:08.087Z",
+      "updatedAt": "2010-01-15T21:44:08.087Z"
+    },
+    {
+      "id": "64a930fc150951e51f0852e7",
+      "airlineId": "92bd263e432b33d515cb5",
+      "name": "TRAVEL-FLIGHT-PASS-MONTH",
+      "pretty_name": "Travel Flight Pass",
+      "quota": "6",
+      "installments": "4",
+      "installments_frequency": "QUARTER",
+      "createdAt": "2010-12-23T12:32:54.233Z",
+      "updatedAt": "2010-12-24T12:32:54.233Z"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "64a93678f8a8b5693a1be454",
+      "subscriberId": "64a92e7be4f328ef46108d2a",
+      "subscriptionsPlanId": "64a930fc238ff9b74c33f9a2",
+      "current_quota": 2,
+      "createdAt": "2014-07-11T22:36:48.422Z",
+      "updatedAt": "2023-07-11T11:28:59.737Z"
+    },
+    {
+      "id": "64a93678ed1c063a36f55916",
+      "subscriberId": "64a92e7b53f1b8d1660dd32b",
+      "subscriptionsPlanId": "64a930fc238ff9b74c33f9a2",
+      "current_quota": 3,
+      "createdAt": "2010-11-11T06:02:04.337Z",
+      "updatedAt": "2023-07-11T11:26:52.955Z"
+    },
+    {
+      "id": "64a93678c729740d30e79f37",
+      "subscriberId": "64a92e7b0eab71036cbdcbe2",
+      "subscriptionsPlanId": "64a930fc238ff9b74c33f9a2",
+      "current_quota": 3,
+      "createdAt": "2014-12-03T03:41:03.612Z",
+      "updatedAt": "2023-07-10T12:00:48.586Z"
+    },
+    {
+      "id": "64a936785e9222bb09105d50",
+      "subscriberId": "64a92e7b7591c3546a5db3e8",
+      "subscriptionsPlanId": "64a930fc238ff9b74c33f9a2",
+      "current_quota": "1",
+      "createdAt": "2014-01-15T13:00:46.633Z",
+      "updatedAt": "2014-01-16T13:00:46.633Z"
+    },
+    {
+      "id": "64a93678dce7f167ed7087c5",
+      "subscriberId": "64a92e7bcfdc6c9528116ce1",
+      "subscriptionsPlanId": "64a930fc238ff9b74c33f9a2",
+      "current_quota": 2,
+      "createdAt": "2013-12-11T13:06:30.201Z",
+      "updatedAt": "2023-07-10T12:01:16.241Z"
+    },
+    {
+      "id": "64a93678f2f910564e840fb1",
+      "subscriberId": "64a92e7bbcd430fd115aa5d1",
+      "subscriptionsPlanId": "64a930fc150951e51f0852e7",
+      "current_quota": "3",
+      "createdAt": "2010-02-16T16:57:48.467Z",
+      "updatedAt": "2010-02-17T16:57:48.467Z"
+    },
+    {
+      "id": "64a93678be1f5044432491b7",
+      "subscriberId": "64a92e7b05edb8dcc105a122",
+      "subscriptionsPlanId": "64a930fc150951e51f0852e7",
+      "current_quota": "2",
+      "createdAt": "2013-04-26T19:23:02.390Z",
+      "updatedAt": "2013-04-27T19:23:02.390Z"
+    },
+    {
+      "id": "64a936788c03476b291619e7",
+      "subscriberId": "64a92e7b6caf604bc3094143",
+      "subscriptionsPlanId": "64a930fc150951e51f0852e7",
+      "current_quota": "1",
+      "createdAt": "2011-12-04T03:47:36.285Z",
+      "updatedAt": "2011-12-05T03:47:36.285Z"
+    },
+    {
+      "id": "64a93678c20c4611560fb6e5",
+      "subscriberId": "64a92e7bf8557a6990766409",
+      "subscriptionsPlanId": "64a930fc150951e51f0852e7",
+      "current_quota": "2",
+      "createdAt": "2010-03-23T08:27:03.383Z",
+      "updatedAt": "2010-03-24T08:27:03.383Z"
+    },
+    {
+      "id": "64a93678bc7246649ebccbb0",
+      "subscriberId": "64a92e7b5682b85b426706a4",
+      "subscriptionsPlanId": "64a930fc150951e51f0852e7",
+      "current_quota": "1",
+      "createdAt": "2011-08-02T15:49:54.270Z",
+      "updatedAt": "2011-08-03T15:49:54.270Z"
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "64a940920812b0028153c734",
+      "reasonId": "64a93edc6108071b6cb6egb8",
+      "subscriptionId": "64a93678f8a8b5693a1be454",
+      "exceptionType": "addition",
+      "createdAt": "2023-03-18T11:03:08.908Z"
+    },
+    {
+      "id": "7UiM3sio7hzm9BIodOpMBeGQ",
+      "reasonId": "64a93edc6108071b6cb6efa0",
+      "subscriptionId": "64a93678f8a8b5693a1be454",
+      "exceptionType": "deduction",
+      "createdAt": "2023-07-11T11:28:45.612Z"
+    },
+    {
+      "id": "XcN36tg6lYLd6lGhcwXFUrQ1",
+      "reasonId": "64a93edc201f9eddd5289e58",
+      "subscriptionId": "64a93678f8a8b5693a1be454",
+      "exceptionType": "deduction",
+      "createdAt": "2023-07-11T11:28:51.985Z"
+    },
+    {
+      "id": "4fijkEs92xaY4OPub2xg9DaG",
+      "reasonId": "64a93edc6108071b6cb6egb8",
+      "subscriptionId": "64a93678f8a8b5693a1be454",
+      "exceptionType": "addition",
+      "createdAt": "2023-07-11T11:28:59.737Z"
+    }
+  ],
+  "reasons": [
+    {
+      "id": "64a93edc704e7d1d9395a27c",
+      "description": "Subscriber canceled flight",
+      "type": "addition"
+    },
+    {
+      "id": "64a93edc3c86a42817aa3360",
+      "description": "Airline canceled flight",
+      "type": "addition"
+    },
+    {
+      "id": "64a93edc6108071b6cb6egb8",
+      "description": "Customer compensation",
+      "type": "addition"
+    },
+    {
+      "id": "64a93edc6108071b6cb6efa0",
+      "description": "Flight not redeposited after a flight cancellation",
+      "type": "deduction"
+    },
+    {
+      "id": "64a93edc201f9eddd5289e58",
+      "description": "Subscriber had log in or password issues",
+      "type": "deduction"
+    },
+    {
+      "id": "64a93edcd45d69ff657629d3",
+      "description": "Subscriber had issues when booking",
+      "type": "deduction"
+    },
+    {
+      "id": "64a93edc386bc8eac8ae450f",
+      "description": "Subscription has not renewed correctly",
+      "type": "deduction"
+    },
+    {
+      "id": "64a93edc53157cf7a44cf97f",
+      "description": "Other",
+      "type": "other"
+    }
+  ]
+}
