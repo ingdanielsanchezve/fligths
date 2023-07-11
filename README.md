@@ -2,7 +2,7 @@
 
 _This is an Admin Panel to manage Subscribers flights contracted quota_
 
-![screenshot_frontend](https://github.com/ingdanielsanchezve/fligths/assets/42616141/36209731-0a51-466c-aa54-6c00a05b3f60){ width=70% }
+![screenshot_frontend](https://github.com/ingdanielsanchezve/fligths/assets/42616141/36209731-0a51-466c-aa54-6c00a05b3f60)
 
 ### Instalation 🔧
 
@@ -46,31 +46,31 @@ npm run dev
 
 Once the App is running on your server you must see the next screen, with some stats about database records
 
-![screenshot_frontend](https://github.com/ingdanielsanchezve/fligths/assets/42616141/36209731-0a51-466c-aa54-6c00a05b3f60){ width=70% }
+![screenshot_frontend](https://github.com/ingdanielsanchezve/fligths/assets/42616141/36209731-0a51-466c-aa54-6c00a05b3f60)
 
 ### `Subscribers`
 
 The Subscribers panel shows subscribers details, it has the check subscription details buttons, which open a modal and shows each subscriber subscription details
 
-![subscribers_list](https://github.com/ingdanielsanchezve/fligths/assets/42616141/de2ee7cc-d0ec-4cb1-ae5e-ea01cda0df4f){ width=50% }
+![subscribers_list](https://github.com/ingdanielsanchezve/fligths/assets/42616141/de2ee7cc-d0ec-4cb1-ae5e-ea01cda0df4f)
 
 ### `Subscription details window`
 
 Subscription details window shows the data for the subscription for the selected user, it has buttons to open the quota editor and a history of the subscriptions past exceptions:
 
-![subscribers_list](https://github.com/ingdanielsanchezve/reviews/assets/42616141/e8dd85bb-e12b-419e-a273-2545bc6b9da4){ width=50% }
+![subscribers_list](https://github.com/ingdanielsanchezve/reviews/assets/42616141/e8dd85bb-e12b-419e-a273-2545bc6b9da4)
 
 ### `Quota Editor`
 
 Once the `Edit subscriber fligths quota` button is clicked the Editor component will be rendered with user current quota, buttons to add or reduce the user fligths quota, a dropdown to select the reason for any flight quota modification and a button to save the changes if any
 
-![quota_editor](https://github.com/ingdanielsanchezve/reviews/assets/42616141/3066c009-a0f2-4926-b001-ec8c4c290c88){ width=50% }
+![quota_editor](https://github.com/ingdanielsanchezve/reviews/assets/42616141/3066c009-a0f2-4926-b001-ec8c4c290c88)
 
 ### `Exceptions history`
 
 This component is shown once the user clicks on the `Show Exceptions Log` button, it shows the subscriptions past exceptions history with details about each of them
 
-![exceptions](https://github.com/ingdanielsanchezve/reviews/assets/42616141/537402ae-9e07-493b-b572-df4a6fb4622b){ width=50% }
+![exceptions](https://github.com/ingdanielsanchezve/reviews/assets/42616141/537402ae-9e07-493b-b572-df4a6fb4622b)
 
 
 ## Built with Love ❤️ with
