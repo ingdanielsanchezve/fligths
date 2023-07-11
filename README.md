@@ -16,6 +16,14 @@ npm install
 
 ## Database & Server Setup ⚙️
 
+### `Entity Relationship Model (ERM)`
+
+Even when i have used for the simplicity of this app a .json file to store the data, i consider is really useful before starting to have in mind a ERM design to make the app work as expected, so i have created this design for this, it includes entities and attibutes i have considered to make this work.
+
+![Database ER diagram](https://github.com/ingdanielsanchezve/fligths/assets/42616141/4fc8a1fa-7c52-481b-b2f7-ec4e8802da0d)
+
+### `Mocking Rest API`
+
 For serving the HTTP API i have used [json-server](https://github.com/typicode/json-server#add-custom-routes), this allows to get a full fake REST API with zero coding in less than 30 seconds, install it using this command:
 
 ```
@@ -34,9 +42,9 @@ VUE_APP_API_URL='http://localhost'
 VUE_APP_API_PORT='3000'
 ```
 
-## Getting Starting ⚙️
+## Getting Started ⚙️
 
-Execute next command to start the app, then go to the url shown in the terminal console, usually `http://localhost:8080/`
+Execute next command to start the app, then go to the url shown in the terminal console. (usually `http://localhost:8080/`)
 ```
 npm run dev
 ```
